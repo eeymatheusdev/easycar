@@ -5,9 +5,9 @@
 <br>
 
 <div style="display: flex; justify-content: center;">
-  <img alt="Projeto EasyCar" src=".github/EASYCAR.PNG" style="margin: 2px; width: 25%; height: auto;" />
-  <img alt="Aba Passageiro" src=".github/PASSAGEIRO.PNG" style="margin: 2px; width: 25%; height: auto;" />
-  <img alt="Aba Motorista" src=".github/MOTORISTA.PNG" style="margin: 2px; width: 25%; height: auto;" />
+  <img alt="Projeto EasyCar" src=".github/EASYCAR.PNG" style="margin: 2px; width: 30%; height: auto;" />
+  <img alt="Aba Passageiro" src=".github/PASSAGEIRO.PNG" style="margin: 2px; width: 30%; height: auto;" />
+  <img alt="Aba Motorista" src=".github/MOTORISTA.PNG" style="margin: 2px; width: 30%; height: auto;" />
 </div>
 
 ## ✨ Tecnologias
