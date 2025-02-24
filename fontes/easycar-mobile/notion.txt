@@ -1,0 +1,23 @@
+Ao abrir meu código-fonte, a
+pasta node_modules não está
+disponível dentro do arquivo ZIP.
+Para reconstruir essa pasta, você
+abre os fontes no VS Code e no terminal digita: npm install
+Depois pode executar o projeto
+com o: npm expo start
+
+
+https://expo.dev/ -> criar e logar
+
+npx create-expo-app --template
+Blank
+
+npm install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+
+npm install react-native-maps
+npx expo install expo-location
+
+npx expo start
+
+npm install axios
